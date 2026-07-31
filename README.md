@@ -50,11 +50,3 @@ The notebook reads `Mystery_Ops.csv` from the repo root — make sure the datase
 1. Audit and reset NBI-P03's maintenance schedule immediately, with a named owner accountable for sign-off.
 2. Add a weekly maintenance-compliance report per machine, reviewed at the depot level, to catch future lapses within weeks rather than a year.
 3. Re-baseline NBI-P03's expected throughput once maintenance resumes and monitor for 60 days to confirm recovery.
-
-## Grading Rubric Alignment
-
-- **Depth & Accuracy of EDA/Diagnostics (35%)** — notebook covers profiling, anomaly detection, drill-down, Pareto, and correlation analysis in full.
-- **Quality of Visualizations (20%)** — 7 charts in the notebook; 3 embedded in the PDF report.
-- **Clarity & Actionability of Written Report (20%)** — 2-page PDF, jargon explained, 3 specific recommendations.
-- **Presentation Delivery & Handling of Objections (15%)** — video script includes a dedicated skeptical-question rebuttal segment.
-- **Peer Collaboration & Feedback (10%)** — documented in `pod_feedback.md`.
