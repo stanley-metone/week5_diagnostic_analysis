@@ -10,4 +10,4 @@ We resolved it by [e.g., agreeing on a single shared, version-controlled cleanin
 Looking back, the teamwork lesson I'd carry into the next hackathon is [e.g., agree on data ownership and a shared source of truth in the first 15 minutes, before anyone starts analysis — not after the first merge conflict]. I'd also push for a faster initial split of roles (who profiles the data, who builds visuals, who drafts the narrative) so we're working in parallel from the start rather than converging late. Overall, the technical skills were there; the coordination overhead is what cost us time, and that's the fixable part.
 
 ---
-*Word count target: ~200 words. Trim or expand the bracketed sections to match your real experience before submitting.*
+*
