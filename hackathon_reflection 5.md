@@ -1,7 +1,5 @@
 # Hackathon #1 Reflection
-**Author:** Stanley Metone
-
-*(This is a scaffold — replace the bracketed detail with what actually happened on your team. Keep it to ~200 words for submission.)*
+Author: Stanley Metone
 
 The biggest technical hurdle our team faced was [e.g., merging conflicting data-cleaning approaches / disagreeing on which anomaly detection method to use / running out of time to validate our root-cause hypothesis before the deadline]. This slowed us down because [brief reason — e.g., we'd each built separate notebooks on slightly different versions of the cleaned dataset, so our numbers didn't match when we tried to combine findings].
 
